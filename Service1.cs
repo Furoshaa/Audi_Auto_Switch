@@ -6,7 +6,6 @@ using System.ServiceProcess;
 using System.Threading;
 using NAudio.CoreAudioApi;
 using System.ComponentModel;
-using System.Configuration.Install;
 
 namespace Audi_Auto_Switch
 {
